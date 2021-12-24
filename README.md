@@ -8,9 +8,8 @@
   
 ## 
 <p align="center">
-   <img src="https://github.com/weeidl/Mosquito_Flyppy_Game/blob/master/assets/MosquitoGameStart.jpg" width="200" title="weeidl">
-   <img src="https://github.com/weeidl/Mosquito_Flyppy_Game/blob/master/assets/Mosquito.gif" width="200"  title="weeidl">
-   <img src="https://github.com/weeidl/Mosquito_Flyppy_Game/blob/master/assets/MosquitoGameEnd.jpg" width="200" title="weeidl">
+   <img src="https://github.com/weeidl/PlatrumTestProject/blob/master/image/file1.jpg" width="200" title="weeidl">
+   <img src="https://github.com/weeidl/PlatrumTestProject/blob/master/image/file2.jpg" width="200" title="weeidl">
 </p>
 
 ##
